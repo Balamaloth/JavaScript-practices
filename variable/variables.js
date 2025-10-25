@@ -160,3 +160,4 @@ function outerFunc() {
 }
 
 outerFunc();
+

@@ -6,7 +6,7 @@ Introduced in ES6 (2015), along with let */
 const pi = 3.14;
 console.log(pi); // 3.14 
 
-//  pi = 3.14159; ❌ Error: Assignment to constant variable
+//  pi = 3.14159;  Error: Assignment to constant variable
 
 // must be initialized 
  // const name ; // it cause error 
